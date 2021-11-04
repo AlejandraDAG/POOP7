@@ -44,9 +44,5 @@ public class AnimalTerrestre extends Animal {
     public String toString() {
         return super.toString() + " "+
                 "AnimalTerrestre{" + "numPatas=" + numPatas + '}';
-    }
-    
-    
-    
-    
+    } 
 }
